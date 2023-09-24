@@ -10,5 +10,7 @@ int main() {
     //this is a comment to test rebasing
     std::cout << "What happens if my branch is older than the master branch?" << std::endl;
 
+    std::cout << "Branch successfully rebased!" << std::endl;
+
     return 0;
 }
